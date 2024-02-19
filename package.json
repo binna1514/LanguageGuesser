@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "languageguesser",
   "version": "1.0.0",
   "description": "A language guesser app",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/binna1514/LanguageGuesser/issues"
   },
-  "homepage": "https://github.com/binna1514/LanguageGuesser#readme"
+  "homepage": "https://github.com/binna1514/LanguageGuesser#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "franc": "^6.2.0",
+    "langs": "^2.0.0"
+  }
 }
